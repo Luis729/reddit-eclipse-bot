@@ -9,7 +9,7 @@ The bot's prefix is `+`, so check out its commands by doing `+help`.
 ******************************************************************************************
 
 The source code for Eclipse Bot is private.
-However, if you find an issue or error with the bot while on our Discord server, please head over to the [issues page](https://github.com/Luis729/eclipse-bot-issues/issues) and write an issue. Same goes if you have a request to be implemented into the bot.
+However, if you find an issue or error with the bot while on our Discord server, please head over to the [issues page](https://github.com/Luis729/reddit-eclipse-bot/issues) and write an issue. Same goes if you have a request to be implemented into the bot.
 
 This bot would not be possible without the following:
 
